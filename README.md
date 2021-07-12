@@ -1,1 +1,1 @@
-# Web Dashboard
+# Frontend Template
