@@ -1598,6 +1598,11 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
+"@vujable/react-layout@0.0.10":
+  version "0.0.10"
+  resolved "https://npm.pkg.github.com/download/@vujable/react-layout/0.0.10/08648bb3cffe90fccf8d7e61fa87151d2f607534f3b7afb214c936574061dd7a#78e55928b396ece21b043b54a1833b92f0915924"
+  integrity sha512-1AC7Bxlbl8YYdTTSyXatJFoxS+7/FZ6Q3dnzgp2ge4EhOh/uU9uJhjSfoTuHdGvVN5SD1DnVIBMu0g7KKU4HiA==
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"
