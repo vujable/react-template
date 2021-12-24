@@ -1,5 +1,7 @@
 # React Template
 
+Very simple react template for creating new projects with everything basic.
+
 **Recommended environment:**
 
 -   node js 14+
