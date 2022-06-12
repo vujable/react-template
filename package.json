@@ -3,14 +3,13 @@
     "version": "1.0.0",
     "type": "module",
     "dependencies": {
-        "@vujable/react-layout": "0.0.10",
         "axios": "^0.21.1",
         "dotenv": "^10.0.0",
-        "node-sass": "4.14.1",
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "react-router-dom": "^6.2.1",
-        "react-scripts": "3.4.3"
+        "node-sass": "^7.0.1",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-router-dom": "^6.3.0",
+        "react-scripts": "^5.0.1"
     },
     "scripts": {
         "start": "react-scripts start",

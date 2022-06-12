@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
-import { Layout, Nav, Page, NavLogo } from '@vujable/react-layout';
+import { Layout } from 'components/Layout/Layout';
+import { Nav, NavLogo } from 'components/Layout/Nav';
+import { Page } from 'components/Layout/Page';
 
 import Home from 'pages/Home';
 
